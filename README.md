@@ -11,10 +11,10 @@
 [EzContent](https://www.drupal.org/project/ezcontent) is a Drupal
  installation profile that addresses common content management 
  pain points and accelerates CMS implementations.
-<div>
-  <img src="https://www.drupal.org/files/project-images/EzContent_0.jpg"
-   width="300px" height="300px"/>
-</div>
+
+ <img src="https://www.drupal.org/files/project-images/EzContent_0.jpg"
+ width="300px" height="300px"/>
+
 
 ## Key Features
 
